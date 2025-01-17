@@ -10,5 +10,5 @@ output "id" {
   value = aws_instance.dev.id
 }
 output "ami" {
-  value = aws_instance.dev.am
+  value = aws_instance.dev.ami
 }

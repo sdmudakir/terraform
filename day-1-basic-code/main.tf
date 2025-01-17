@@ -4,7 +4,7 @@ ami = var.ami_id
   key_name = var.keyname
   availability_zone = "us-east-1b"
   tags = {
-  Name = "dev1"
+  Name = "dev"
 }
 }
   
