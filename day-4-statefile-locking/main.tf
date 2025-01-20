@@ -4,7 +4,7 @@ ami = "ami-05576a079321f21f8"
   key_name = "devops"
   availability_zone = "us-east-1a"
   tags = {
-  Name = "dev1"
+  Name = "windows"
   }
 }
   
