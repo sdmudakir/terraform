@@ -4,8 +4,8 @@ provider "aws" {
 }
 
 resource "aws_instance" "test11" {
-    ami = "ami-05576a079321f21f8"
-    key_name = "devops"
+    ami = "ami-0c614dee691cbbf37"
+    key_name = "Multicloud"
     instance_type = "t2.nano"
     
     tags = {
